@@ -1,0 +1,9 @@
+{
+    "name": "angular-learning",
+    "version": "0.0.0",
+    "dependencies": {
+        "rxjs": "^6.5.2",
+        "rxjs-compat": "^6.5.2"
+    },
+    "devDependencies": {}
+}
